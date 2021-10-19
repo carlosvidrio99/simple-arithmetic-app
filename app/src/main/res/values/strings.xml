@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AritmeQuiz</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo">AritméticaxS</string>
+    <string name="opcion1m">Multiplicación</string>
+    <string name="opcion2d">División</string>
+    <string name="opcion3r">Resta</string>
+    <string name="opcion4s">Suma</string>
+    <string name="Regresar">Regresar</string>
+    <string name="salirbtn">Salir</string>
+    <string name="num1">Número 1</string>
+    <string name="num2">Número 2</string>
+    <string name="regresar">Regresar</string>
+    <string name="continuar">Continuar</string>
+    <string name="op_suma">SUMA</string>
+    <string name="op_resta">RESTA</string>
+    <string name="op_division">DIVISION</string>
+    <string name="op_multiplicacion">MULTIPLICACION</string>
+    <string name="puntuacion">PUNTUACIÓN:</string>
+    <string name="score_num">0</string>
+    <string name="respuesta_es">La respuesta es:</string>
+    <string name="respuesta">...</string>
+</resources>
